@@ -1,0 +1,7 @@
+Source scrpit: In the format of .py
+From compiler it will convert it into Byte code file extesion .pyc
+From exicutable it will generate .PVM --> Python Virtual Machine
+
+In python no linking 
+
+In python we have one option interpreter: which will gives you quick results.
