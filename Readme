@@ -21,7 +21,40 @@ To run module code in command prompt using command "Python<File_name.py>
 
 Python file extension is .py
 When we install python in our system it will come with python editior(IDLE: Free IDE)
-To invoke the IDLE IDE in CMD Prompt use command --> python -m idlelib<filename.py>
+To invoke the IDLE IDE in CMD Prompt use command --> python -m idlelib file_name.py
 To come from intractive prompt use ctrl z
 To execute any commands in perticuler file use command python filename.py
+
+
+
+Python OBJECT type:
+Python has no any data type, It is having Objects
+like
+
+1. Numbers: Its an integer numbers.
+
+2. Strings: Group of characters e.g "NISHALI"
+
+3. Lists: 
+          It is similer to arrays in c or other pgm language. 
+          lists is mutuable that means we can change the value of object in lists.
+          array is group of similer data but in list is having group of different data.
+          The list is also identifies with an index number. use square brackets
+          e.g [50, CAR, 15.3 [2, ECU_name]]
+
+4. Dictionaries:
+                Dictionarires is like a mapping. Inside the dictionaries every objects having identified with unique key and that unique key is having key values. use curly braces
+                Dirctonerires not having any order.
+                we can fetch them by using key.
+                {'Vehicle_speed':200, 'Fault_speed':-1, 'Starting_speed':0}
+
+5. Tuples:      It is immutable list which object value can't be change. And Tuple has any order object into it.
+                for Tuple use round brackets
+                e.g (10, 'A', "BMW", "INDIA")
+
+6. Files:         
+7. Program Unit:
+8. Sets:
+
+
 
