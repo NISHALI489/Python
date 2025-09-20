@@ -78,6 +78,8 @@ In-built library function_Random:
 The in built library function Rasndom to generate the random integer numbers.
 The in built library function Math for all maths operations
 Python supports sets and boolean.
+In python to check the length of string in built function is there len()
+To check if a certain phrase or character is present in a string, we can use the keyword in()
 
 append: It is a function to item in list
 
