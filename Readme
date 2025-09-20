@@ -1,0 +1,27 @@
+Source scrpit: In the format of .py
+From compiler it will convert it into Byte code file extesion .pyc
+From exicutable it will generate .PVM --> Python Virtual Machine
+
+In python no linking 
+
+In python we have one option interpreter: which will gives you quick results.
+
+Decleration of variable in python: No need to worry aboubt data type based on the data python will decides its type.
+If we assign a value to variable then it decide its type.
+
+In python for single line comment used #
+And for multi line comment " " " statements or 
+                                 lines of codes " " "
+
+Indentation: like c language here no use of brackets use indentation(one tab) after print in ("Indentation") program file give one more enter.
+
+Python_Module: Python code is known as Python_Module using any IDE
+To run module code in command prompt using command "Python<File_name.py>
+(make sure after installing python your directory path shall be added into system environment path)
+
+Python file extension is .py
+When we install python in our system it will come with python editior(IDLE: Free IDE)
+To invoke the IDLE IDE in CMD Prompt use command --> python -m idlelib<filename.py>
+To come from intractive prompt use ctrl z
+To execute any commands in perticuler file use command python filename.py
+
