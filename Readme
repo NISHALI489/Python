@@ -52,9 +52,18 @@ like
                 for Tuple use round brackets
                 e.g (10, 'A', "BMW", "INDIA")
 
-6. Files:         
-7. Program Unit:
-8. Sets:
+6. Files:      If we want save any information in hardware part we have to go for files structure and even we 
+               have to deal with library functions so here we need files option.
+
+               e.g fp=Open("SpeedSamples.txt","r") 
+               In example fp is a file pointer
+               SpeedSamples.txt is txt file which we have to open or create
+               "r" --> file mode(read)
+               "W" --> is for write
+
+7. Program Unit: Functions, Modules and Classes
+
+8. Sets:    Sets are collection of objects, collections of different data where we can process.   
 
 
 
