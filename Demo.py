@@ -1,2 +1,3 @@
+import random
 
-print("Python First program..............")
+random.random()

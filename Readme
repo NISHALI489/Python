@@ -37,7 +37,7 @@ like
 
 3. Lists: 
           It is similer to arrays in c or other pgm language. 
-          lists is mutuable that means we can change the value of object in lists.
+          lists is mutuable that means we can change the value of any objects in lists.
           array is group of similer data but in list is having group of different data.
           The list is also identifies with an index number. use square brackets
           e.g [50, CAR, 15.3 [2, ECU_name]]
@@ -61,9 +61,27 @@ like
                "r" --> file mode(read)
                "W" --> is for write
 
-7. Program Unit: Functions, Modules and Classes
+7. Program Unit: Functions, Modules and Classes. those are like program building data.
 
-8. Sets:    Sets are collection of objects, collections of different data where we can process.   
+8. Sets:    Sets are collection of objects, collections of different data where we can process. 
+            Mathamatical expression we can deal with sets.
+            e.g. sets('abc'),{'a', 'b', 'c'}
+
+            for addition +
+            for multiplication *
+            for exponantion **
+
+In-built library function_Random:
+The in built library function Rasndom to generate the random integer numbers.
+The in built library function Math for all maths operations
+Python supports sets and boolean.
+
+append: It is a function to item in list
+
+
+Srtings:
+Stores textal data.
+Positive index access bytes of string from the left and negative index from the right.
 
 
 
