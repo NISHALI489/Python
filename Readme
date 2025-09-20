@@ -25,7 +25,10 @@ To invoke the IDLE IDE in CMD Prompt use command --> python -m idlelib file_name
 To come from intractive prompt use ctrl z
 To execute any commands in perticuler file use command python filename.py
 
+In python integer data type is having int, float, complex
+byte type: bytes, bytesarray, memeoryview
 
+Python casting:Its like c type casting
 
 Python OBJECT type:
 Python has no any data type, It is having Objects
