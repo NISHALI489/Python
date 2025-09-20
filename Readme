@@ -5,3 +5,9 @@ From exicutable it will generate .PVM --> Python Virtual Machine
 In python no linking 
 
 In python we have one option interpreter: which will gives you quick results.
+
+Decleration of variable in python: No need to worry aboubt data type based on the data python will decides its type.
+
+In python for single line comment used #
+And for multi line comment " " " statements or 
+                                 lines of codes " " "
